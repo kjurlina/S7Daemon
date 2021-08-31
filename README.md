@@ -1,6 +1,6 @@
 # S7Daemon
 
-S7Daemon je Windown konzolaška aplikacija za čitanje podataka sa S7 PLC-ova i pohranu u lokalnu SQLite bazu podataka
+S7Daemon je Windows konzolaška aplikacija za čitanje podataka sa S7 PLC-ova i pohranu u lokalnu SQLite bazu podataka
 
 Za čitanje PLC-a koristi se Sharp7
 
